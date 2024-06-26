@@ -1,0 +1,6 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+calculos,app,App,5,3,0,0,2,1,1,1,1,1
+calculos,app.service,CalculoService,4,78,1,9,1,16,2,8,1,4
+calculos,app.controller,CalculoController,7,31,0,0,2,7,0,3,0,3
+calculos,app.entity,Saida,4,32,0,0,0,6,1,7,1,7
+calculos,app.entity,Entrada,0,26,0,0,0,5,0,6,0,6
